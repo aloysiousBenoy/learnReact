@@ -1,0 +1,4 @@
+npm install @babel/preset-env --save-dev
+{
+  "presets": ["@babel/preset-env"]
+}
